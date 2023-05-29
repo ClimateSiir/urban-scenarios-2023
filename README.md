@@ -11,6 +11,6 @@ and future years, and the annual CO2 sequestration penalty as a function of the 
 million cells of data (45 urban areas x 10,000 simulations x 8 scenarios). These later worksheets involve the annual urban emissions per urban area for cumulative urban emissions (SSP1-1.9, SSP1-2.6, SSP1-RE, and SSP1-RE-MC) and annual CO2 sequestration penalty for cumulative CO2 sequestration penalties (LUE 5%, LUE 15%, LUE Av, and LUE Best) based on the Monte Carlo simulation results. The data structure is described in the information
 sheet and the dataset contains 55,309 cells of data. The method and results based on the data are described in the original article that is published in Energy.
 
-This work should be cited as: Kılkış (2023), Dataset on Integrated Urban Scenarios, DOI: zenodo
+This work should be cited as: Kılkış (2023), Dataset on Integrated Urban Scenarios (v1.0.0). Zenodo.
 
 Please send any questions to siir.kilkis@tubitak.gov.tr
